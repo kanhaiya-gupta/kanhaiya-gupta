@@ -9,14 +9,14 @@ I'm a Python developer and data scientist with a background in experimental phys
 
 ### Machine Learning Projects
 
-- **[PySpark FIFA Player Clustering](https://github.com/kanhaiya-gupta/FIFA_Pipeline)**  
-  PySpark ML pipeline for KMeans clustering of FIFA 2018 players by attributes like Overall and Potential. Features preprocessing, feature engineering, and visualization, with FastAPI for real-time predictions.
-
 - **[WeatherWise](https://github.com/kanhaiya-gupta/WeatherWise)**  
   Automated ML pipeline for rainfall prediction using FastAPI, DVC, and GitHub Actions for CI/CD, data versioning, and efficient model inference.
 
 - **[Physics-Informed Neural Network](https://github.com/kanhaiya-gupta/physics-informed-neural-network)**  
   Framework with FastAPI for solving PDEs (SHM, Heat, Wave, Burgers' equations) using Physics-Informed Neural Networks, with RESTful APIs and logging.
+
+- **[PySpark FIFA Player Clustering](https://github.com/kanhaiya-gupta/FIFA_Pipeline)**  
+  PySpark ML pipeline for KMeans clustering of FIFA 2018 players by attributes like Overall and Potential. Features preprocessing, feature engineering, and visualization, with FastAPI for real-time predictions.
 
 ### Data Engineering & Programming Projects
 
