@@ -34,10 +34,10 @@ I'm a Python developer and data scientist with a background in experimental phys
 
 - **Languages:** Python, SQL, C++, Shell Script, TeX
 - **Data Engineering:** PySpark, Airflow, DVC, MLflow
-- **Machine Learning:** TensorFlow, Hugging Face Transformers, Scikit-learn
+- **Machine Learning:** TensorFlow, Pytorch, Hugging Face Transformers, Scikit-learn
 - **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
 - **Cloud Platforms:** AWS, Azure
-- **Databases:** MongoDB, PostgreSQL
+- **Databases:** MongoDB, PostgreSQL, MySQL
 - **Web Frameworks:** FastAPI, Flask
 
 ---
