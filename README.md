@@ -9,21 +9,21 @@ I'm a Python developer and data scientist with a background in experimental phys
 ### Machine Learning Projects
 
 - **[WeatherWise](https://github.com/kanhaiya-gupta/WeatherWise)**  
-  Full-stack ML system for rainfall prediction, integrating FastAPI, CI/CD pipelines, and DVC for version control.
+  Built and deployed WeatherWise, an automated ML pipeline for rainfall prediction with FastAPI, DVC, and GitHub Actions, enabling seamless CI/CD, data versioning, and optimized model inference.
 
 - **[Physics-Informed Neural Network](https://github.com/kanhaiya-gupta/physics-informed-neural-network)**  
-  Developed a FastAPI-based Physics-Informed Neural Network framework with RESTful endpoints for batch training and prediction of PDEs (SHM, Heat, Wave, Burgers' equations), implementing comprehensive error handling and logging.
+  Built a Physics-Informed Neural Network framework with FastAPI for solving PDEs, implementing SHM, Heat, Wave, and Burgers' equations with RESTful APIs and comprehensive logging.
 
 ### Data Engineering & Programming Projects
 
 - **[Professional ETL Pipelines (Xetra)](https://github.com/kanhaiya-gupta/Professional-ETL-pipelines-Xetra)**  
-  Developed robust ETL pipelines for Xetra datasets using Python, SQLAlchemy, and AWS services.
+  Built a Python ETL pipeline (Git, CI/CD, Docker) to process the Xetra dataset on AWS S3, improving data accessibility and efficiency.
 
 - **[Census Data Explorer](https://github.com/kanhaiya-gupta/Census-Data-Explorer-)**  
-  Interactive tool for exploring U.S. Census data with advanced data visualization techniques.
+  Built ETL pipeline with SQLAlchemy for U.S. Census data, giving insights via reports and visuals, deployable serially or on Kubernetes.
 
 - **[MongoDB Nobel Prize Explorer](https://github.com/kanhaiya-gupta/MongoDB-Nobel-Prize-Explorer)**  
-  Analyzed Nobel Prize data using NoSQL modeling and MongoDB for insightful data representations.
+  Developed and deployed a Python-based ETL pipeline on Kubernetes to ingest Nobel Prize data into MongoDB using NoSQL modeling, improving scalability and reliability.
 
 - **[Advanced Python with OOP Projects](https://github.com/kanhaiya-gupta/Advanced-Python-with-OOP-Projects)**  
   A collection of object-oriented Python projects, including web apps and CLI tools, demonstrating advanced programming concepts.
