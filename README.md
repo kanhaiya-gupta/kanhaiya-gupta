@@ -6,6 +6,16 @@ I'm a Python developer and data scientist with a background in experimental phys
 
 ## 🚀 Featured Projects
 
+### Machine Learning Projects
+
+- **[WeatherWise](https://github.com/kanhaiya-gupta/WeatherWise)**  
+  Full-stack ML system for rainfall prediction, integrating FastAPI, CI/CD pipelines, and DVC for version control.
+
+- **[Physics-Informed Neural Network](https://github.com/kanhaiya-gupta/physics-informed-neural-network)**  
+  Developed a FastAPI-based Physics-Informed Neural Network framework with RESTful endpoints for batch training and prediction of PDEs (SHM, Heat, Wave, Burgers' equations), implementing comprehensive error handling and logging.
+
+### Data Engineering & Programming Projects
+
 - **[Professional ETL Pipelines (Xetra)](https://github.com/kanhaiya-gupta/Professional-ETL-pipelines-Xetra)**  
   Developed robust ETL pipelines for Xetra datasets using Python, SQLAlchemy, and AWS services.
 
@@ -14,9 +24,6 @@ I'm a Python developer and data scientist with a background in experimental phys
 
 - **[MongoDB Nobel Prize Explorer](https://github.com/kanhaiya-gupta/MongoDB-Nobel-Prize-Explorer)**  
   Analyzed Nobel Prize data using NoSQL modeling and MongoDB for insightful data representations.
-
-- **[WeatherWise](https://github.com/kanhaiya-gupta/WeatherWise)**  
-  Full-stack ML system for rainfall prediction, integrating FastAPI, CI/CD pipelines, and DVC for version control.
 
 - **[Advanced Python with OOP Projects](https://github.com/kanhaiya-gupta/Advanced-Python-with-OOP-Projects)**  
   A collection of object-oriented Python projects, including web apps and CLI tools, demonstrating advanced programming concepts.
@@ -42,5 +49,3 @@ I'm a Python developer and data scientist with a background in experimental phys
 - **Twitter:** [@kanhiya_gupta21](https://twitter.com/kanhiya_gupta21)
 
 Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions!
-
----
