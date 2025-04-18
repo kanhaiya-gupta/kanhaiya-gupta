@@ -32,7 +32,7 @@ I'm a Python developer and data scientist with a background in experimental phys
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, SQL, C++, TeX
+- **Languages:** Python, SQL, C++, Shell Script, TeX
 - **Data Engineering:** PySpark, Airflow, DVC, MLflow
 - **Machine Learning:** TensorFlow, Hugging Face Transformers, Scikit-learn
 - **DevOps:** Docker, Kubernetes, GitHub Actions, CI/CD
