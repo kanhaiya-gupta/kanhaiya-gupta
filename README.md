@@ -18,8 +18,7 @@ I'm a Python developer and data scientist with a background in experimental phys
   PySpark ML pipeline for KMeans clustering of FIFA 2018 players by attributes like Overall and Potential. Features preprocessing, feature engineering, and visualization, with FastAPI for real-time predictions.
 
 - **[Industry 4.0 Predictive Maintenance System](https://github.com/kanhaiya-gupta/Industry4.0-CNN-PredictiveMaintenance)**  
-  A predictive maintenance system utilizing Convolutional Neural Networks (CNN) for fault detection in industrial equipment using time series data from hydraulic sensors.
-
+  A production-grade predictive maintenance system using PyTorch CNNs and Siamese networks for real-time hydraulic fault detection, with FastAPI, MLflow tracking, and robust monitoring
 ### Data Engineering & Programming Projects
 
 - **[Professional ETL Pipelines (Xetra)](https://github.com/kanhaiya-gupta/Professional-ETL-pipelines-Xetra)**  
