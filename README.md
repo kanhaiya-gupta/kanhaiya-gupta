@@ -1,12 +1,15 @@
 # 👋 Hi, I’m Kanhaiya Gupta
 
-I'm a Python developer and data scientist with a background in experimental physics. I specialize in scalable ETL pipelines, machine learning model deployment, and AI solutions. My work includes prestigious institutions like BAM and CERN, using technologies like AWS, Kubernetes, FastAPI, PySpark, and MLOps.
+I am building a startup that develops cutting-edge software solutions leveraging machine learning, IoT, and advanced pattern recognition. Our goal is to deliver scalable and impactful tools that address real-world challenges across industry, research, and infrastructure sectors.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### Machine Learning Projects
+
+- **[Uninet: One Framework, All Neural Tasks](https://github.com/kanhaiya-gupta/Uninet)**
+  Uninet is an open-source framework designed to unify a diverse range of machine learning tasks—including classification, regression, clustering, and physics-informed modeling—within a modular, extensible architecture. It provides reusable components and templates to accelerate model development and deployment.
 
 - **[WeatherWise](https://github.com/kanhaiya-gupta/WeatherWise)**  
   Automated ML pipeline for rainfall prediction using FastAPI, DVC, and GitHub Actions for CI/CD, data versioning, and efficient model inference.
@@ -21,6 +24,9 @@ I'm a Python developer and data scientist with a background in experimental phys
   Production-grade predictive maintenance system using PyTorch CNNs and Siamese networks for real-time hydraulic fault detection, with FastAPI, MLflow tracking, and robust monitoring.
 
 ### Data Engineering & Programming Projects
+
+- **Counterfeit 3D Component Detection System**
+A comprehensive system that authenticates and detects counterfeit 3D components using advanced pattern recognition and microstructural analysis techniques. This solution is tailored for industries requiring high-fidelity component verification.
 
 - **[IoT Data Analysis System](https://github.com/kanhaiya-gupta/IoT-Data-Analysis)**  
   Comprehensive IoT system with ETL pipelines for environmental and traffic sensor data, driving ML-based traffic prediction, real-time processing, visualization, and automated deployment.
