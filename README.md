@@ -48,12 +48,12 @@
   Scalable multi-model NoSQL platform tailored for Powder Bed Fusion research — efficient storage, retrieval, and analysis of industrial AM datasets.
 
 #### Digital Twins & Quality Infrastructure
-- **AASX-Digital & aas-processor** (Python + C#/.NET)  
-  Production-grade **Asset Administration Shell (AAS)** suite compliant with Plattform Industrie 4.0 standards: full AASX processing, digital twin lifecycle management, AI/RAG analytics (Neo4j graphs + Qdrant), ETL pipelines, Docker-ready. Ideal for interoperable industrial IoT twins.
+- **[AASX-Digital](https://github.com/kanhaiya-gupta/AASX-Digital) & [aas-processor](https://github.com/kanhaiya-gupta/aas-processor)** (Python + C#/.NET)  
+  Production-grade **Asset Administration Shell (AAS)** suite compliant with Plattform Industrie 4.0 standards: full AASX processing, digital twin lifecycle management, AI/RAG analytics (Neo4j graphs + Qdrant), ETL pipelines, Docker-ready. Ideal for interoperable industrial IoT twins and quality infrastructure.
 
 #### Computer Vision & Tools
-- **Defect-Detection Pipeline**  
-  High-performance C++23 + OpenCV pipeline for retail/manufacturing defect detection (pluggable ONNX/TensorRT backends, Docker/Conan). Extensible via Windows DLL plugin template.
+- **[Defect-Detection Pipeline](https://github.com/kanhaiya-gupta/defect-detection)**  
+  High-performance C++23 + OpenCV pipeline for retail/manufacturing defect detection (pluggable ONNX/TensorRT backends, Docker/Conan). Extensible via [Windows DLL plugin template](https://github.com/kanhaiya-gupta/windows-dll-plugin-template) for custom enterprise integrations.
 
 ---
 
