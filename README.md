@@ -36,6 +36,10 @@
 
 - **[gnn-research-platform](https://github.com/kanhaiya-gupta/gnn-research-platform)**  
   Comprehensive ecosystem for **Graph Neural Networks** — node/graph classification, link prediction, anomaly detection, community analysis. Modular and extensible for complex network tasks.
+  
+  - **uninet**  
+  Unified Neural Network framework supporting classification, regression, segmentation, generative modeling, and more. Includes **U-Net** for semantic segmentation (2D/3D voxel/medical/image defect tasks), CNNs, Transformers, GANs, encoder-decoder, and physics-informed extensions. PyTorch-based with modular tasks and pre-built templates.  
+  https://github.com/kanhaiya-gupta/Uninet
 
 - **[Industry4.0-CNN-PredictiveMaintenance](https://github.com/kanhaiya-gupta/Industry4.0-CNN-PredictiveMaintenance)**  
   Production-ready **predictive maintenance** pipeline using PyTorch CNNs & Siamese networks for real-time hydraulic system fault detection. FastAPI API, MLflow tracking, preprocessing → deployment.
