@@ -52,7 +52,7 @@
 
 #### Digital Twins & Quality Infrastructure
 - **[AASX-Digital](https://github.com/kanhaiya-gupta/AASX-Digital) & [aas-processor](https://github.com/kanhaiya-gupta/aas-processor)** (Python + C#/.NET)  
-  Production-grade **Asset Administration Shell (AAS)** suite compliant with Plattform Industrie 4.0 standards: full AASX processing, digital twin lifecycle management, AI/RAG analytics (Neo4j graphs + Qdrant), ETL pipelines, Docker-ready. Ideal for interoperable industrial IoT twins and quality infrastructure.
+  Production-grade **Asset Administration Shell (AAS)** platform compliant with Plattform Industrie 4.0: full AASX package processing, **digital twin lifecycle management**, **knowledge graphs (Neo4j)**, **vector search/RAG analytics (Qdrant)**, ETL pipelines, and **federated learning** module for privacy-preserving distributed ML (FedAvg aggregation, local training, differential privacy, secure aggregation across twins/organizations). Docker-ready deployment, modular architecture with dependency injection and testing – ideal for secure, interoperable industrial IoT digital twins and quality infrastructure systems.
 
 #### Computer Vision & Tools
 - **[Defect-Detection Pipeline](https://github.com/kanhaiya-gupta/defect-detection)**  
